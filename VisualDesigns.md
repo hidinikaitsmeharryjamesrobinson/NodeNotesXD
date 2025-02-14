@@ -8,5 +8,7 @@ Just usually do homepage but can do more if its an easy design
 # Colors:
 
 #121218
+Dark Blueish Gray
 
-#121208
+#121208 
+Quite a Dark Gray
